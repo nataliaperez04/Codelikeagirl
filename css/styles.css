@@ -2,6 +2,12 @@ h1 {
     text-align: center;
     background-color:#5485eeb2;
 }
+
+h3{
+    text-align: center;
+    background-color:#5485eeb2;
+}
+
 #titulo3 {
     border: solid 2px;
     font-family: Arial;
@@ -13,10 +19,4 @@ body{
 }
 .mi-li{
     color:violet;
-}
-
-h2{
-    text-align: center;
-
-
 }
