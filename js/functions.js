@@ -1,7 +1,15 @@
-var time= Date();
+var time= new Date();
 var color;
-if(time==12) {
-    color="rojo";
-} else if(time==15)
-    color="amarillo";
-else if(verde)
+var myElement;
+
+if(time == 12) {
+    color = "rojo";
+} else if (time == 15) {
+    color = "amarillo";
+} else {
+    color = "verde";
+}
+
+ myElement = document.getElementById("timeColor");
+
+myElement.innerHTML = color;
