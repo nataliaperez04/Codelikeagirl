@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color:#5485eeb2;
+}
+#titulo3 {
+    border: solid 2px;
+    font-family: Arial;
+    text-align: center;
+}
+
+body{
+    margin: 75px;
+}
+.mi-li{
+    color:violet;
+}
